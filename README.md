@@ -1,4 +1,4 @@
-# OpenCV-Based Face Tracking for Real-Time Target Positioning
+# Lock On: OpenCV-Based Face Tracking for Real-Time Target Positioning
 
 This project utilizes OpenCV to perform real-time face tracking. By detecting and tracking faces in live video input, the program continuously identifies and displays the center position of the detected face, which can be used for applications such as target positioning and real-time tracking systems.
 
@@ -23,14 +23,14 @@ pip install opencv-python opencv-contrib-python
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/face-tracking-real-time
-   cd face-tracking-real-time
+   git clone https://github.com/pratz222/OpenCV-based-Face-Tracking-for-Real-Time-Target-Positioning
+   cd lockon
    ```
 
 2. **Run the Code**:
    Execute the following command in the project directory:
    ```bash
-   python face_tracking.py
+   python lockon.py
    ```
 
 3. **Quit the Program**:
